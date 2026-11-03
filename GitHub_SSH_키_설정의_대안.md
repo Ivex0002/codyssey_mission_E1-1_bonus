@@ -3,6 +3,7 @@
 - 때문에 대안으로써 http상에서의 인증 과정만 적고자 합니다
 
 ### 로컬 프로젝트에서 깃허브로 업로드
+- 보너스과제 1~4 에서 사용한 코드를 새로운 저장소에 업로드 해보겠습니다
 ```
 User@4F-48 UCRT64 ~/Downloads/codessey-beginners_course-main/codessey-beginners_course-main/mission1_miniproject_port
 $ git init
@@ -74,3 +75,5 @@ branch 'main' set up to track 'origin/main'.
 <img width="400" alt="스크린샷 2026-11-03 161359" src="https://github.com/user-attachments/assets/ec4c4181-9c0d-44d4-8bfa-f06aff402375" />
 
 - 정상적으로 저장소에 코드가 업로드 된 것을 확인했습니다.
+
+[해당 저장소 링크](https://github.com/Ivex0002/docker_compose_practice_miniproject)
