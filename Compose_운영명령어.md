@@ -28,7 +28,7 @@ exit                                       # 나가기
 ### 변경 반영
 ```
 docker compose up -d --build   # 코드/Dockerfile 바꾼 뒤 재빌드 후 실행
-docker compose restart         # 재시작
+docker compose restart         # 재시작 (yml 변경 반영 x)
 ```
 
 이전 보너스 과제 1, 2 에서 docker compose up, ps, logs, exec 를 해보았으므로 stop, start, restart 를 실행해보겠습니다
