@@ -63,4 +63,4 @@ my-web-app-e1-1-bonus-1  | 172.18.0.1 - - [03/Nov/2026 06:06:50] "GET /favicon.i
 ```
 <img width="695" height="417" alt="image" src="https://github.com/user-attachments/assets/5e503ef2-ce1e-4834-a0a4-cc952d739d0b" />
 
-- 빌드 완료 후, http://localhost:8080/ 에서 정상적으로 잡히는걸 확인했습니다
+- 빌드 완료 후, `http://localhost:8080/` 에서 정상적으로 잡히는걸 확인했습니다
