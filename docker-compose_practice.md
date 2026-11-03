@@ -15,7 +15,7 @@ services:
     volumes:
       - .:/app
 ```
-- 기본미션에서 사용한 명령어docker build -t my-web-app . 에서 이전 이미지와 구분키 위해 이름을 my-web-app-e1-1-bonus 으로 변경하고, docker run -d -p 8080:8000 명령어는 동일하게 맞춰줬습니다.
+- 기본미션에서 사용한 명령어 `docker build -t my-web-app .` 에서 이전 이미지와 구분키 위해 이름을 `my-web-app-e1-1-bonus` 으로 변경하고, `docker run -d -p 8080:8000` 사용했던 명령어는 동일하게 맞춰줬습니다.
 
 ### 실제 실행 모습
 ```
