@@ -3,7 +3,7 @@
 ## 1. Docker Compose 기초
 [docker-compose_practice.md](docker-compose_practice.md)
 ## 2. Docker Compose 멀티 컨테이너
-[]()
+[docker-compose_multi.md](docker-compose_multi.md)
 ## 3. Compose 운영 명령어 습득
 []()
 ## 4. 환경 변수 활용
