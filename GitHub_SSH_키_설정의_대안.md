@@ -67,7 +67,7 @@ branch 'main' set up to track 'origin/main'.
 <img width="400" alt="스크린샷 2026-11-03 161308" src="https://github.com/user-attachments/assets/fd6d88db-c9fc-4850-9218-262af63d1fdd" />
 
 
-- 외부 인증 과정 중 `info: please complete authentication in your browser...` 에 대한 스크린샷입니다
+- 인증 과정 중 `info: please complete authentication in your browser...` 에 대한 스크린샷입니다
 
 - 웹에서의 로그인 과정은 보안을 위해 외부 인증 앱 otp를 사용중입니다.
 
