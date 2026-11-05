@@ -1,6 +1,6 @@
 # 도커 docker-compose.yml 작성 연습
 
-- 사용한 파일은 이전 기본 미션의 작업 결과를 재활용했습니다. [링크](https://github.com/Ivex0002/codessey-beginners_course/tree/main/mission1_miniproject_port)
+- 사용한 파일은 이전 [기본 미션의 작업 결과](https://github.com/Ivex0002/codessey-beginners_course/tree/main/mission1_miniproject_port)를 재활용했습니다. 
 
 ### 작성한 yml 파일
 ```yml
