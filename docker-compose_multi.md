@@ -59,6 +59,7 @@ cache-1  | 1:M 03 Nov 2026 06:20:04.900 * <bf> RedisBloom version 8.10.1 (Git=un
 cache-1  | 1:M 03 Nov 2026 06:20:04.900 * <bf> Registering configuration options: [
 cache-1  | 1:M 03 Nov 2026 06:20:04.900 * <bf>  { bf-error-rate       :      0.01 }
 cache-1  | 1:M 03 Nov 2026 06:20:04.900 * <bf>  { bf-initial-size     :       100 }
+(생략)
 ```
 ```
 PS C:\Users\User\Downloads\codessey-beginners_course-main\codessey-beginners_course-main\mission1_miniproject_port> docker compose exec cache redis-cli ping
